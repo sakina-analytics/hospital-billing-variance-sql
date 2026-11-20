@@ -1,0 +1,16 @@
+cost_head,status,lines,net_gap_tzs
+CONSULTATION,Missing in HIS,72,-1240000.0
+CONSULTATION,Rate or amount differs,106,840000.0
+DIALYSIS,Missing in HIS,1,-1260000.0
+DIALYSIS,Units differ,8,-2520000.0
+HDU,Missing in HIS,4,-1500000.0
+HDU,Units differ,8,-1200000.0
+ICU,Missing in HIS,5,-4800000.0
+ICU,Rate or amount differs,24,-24640000.0
+IPD,Missing in HIS,38,-3460000.0
+IPD,Only in HIS,28,1140000.0
+IPD,Units differ,168,3920000.0
+PHARMACY,Missing in HIS,59,-5303300.0
+PHARMACY,Rate or amount differs,299,140100.0
+SURGERY,Missing in HIS,5,-2900000.0
+SURGERY,Rate or amount differs,27,-1837000.0
