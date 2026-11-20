@@ -1,3 +1,3 @@
+data/hospital_billing.db
 __pycache__/
-.venv/
-~$*.xlsx
+*.pyc
